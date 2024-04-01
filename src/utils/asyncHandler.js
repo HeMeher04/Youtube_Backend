@@ -8,7 +8,7 @@ const asyncHandler = (requestHandler) => {
 export { asyncHandler }
 
 
-//same thing only
+
 
 // const asyncHandler = () => {}
 // const asyncHandler = (func) => () => {}
